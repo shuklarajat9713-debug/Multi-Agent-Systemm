@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-google-genai
+langchain-groq
 
 tavily-python
 beautifulsoup4
